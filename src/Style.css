@@ -1,0 +1,17 @@
+
+.pagination{
+    display: flex;
+    justify-content: center;
+}
+
+.page-link{
+    background-color: cornflowerblue;
+    color: white;
+    cursor: pointer; 
+    text-decoration: none; 
+}
+
+.page-link:active{
+    background-color: black;
+}
+
